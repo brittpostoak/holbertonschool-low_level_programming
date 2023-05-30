@@ -1,7 +1,8 @@
 #include "_putchar.h"
 	/**
 	 * main - print _putchar
-	 * is written by mbah
+	 * This function is the entry point for the program.
+ 	 * It prints the message "_putchar" to the console.
 	 * Return: 0
 	 */
 
